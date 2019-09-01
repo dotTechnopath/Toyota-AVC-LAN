@@ -7,5 +7,6 @@ very work in progress.
 
 this is the hardware i have so far:
 
-[image of breadboard](https://imgur.com/5OG4hFI)
+![image of breadboard](/breadboard.png)
+
 using a mcp2551 protocol controller and LM239N comparator 
