@@ -1,7 +1,7 @@
 # Toyota-AVC-LAN
 Source code for Arduino emulating a CD Changer on a Toyota AVC LAN network
 
-# rewriting to make the this work on a a modern arduino uno r3 
+# making a better readme to make the this work on a a modern arduino uno r3 
 
 very work in progress. not very experienced, help is appreciated
 
